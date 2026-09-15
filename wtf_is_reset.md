@@ -3,3 +3,5 @@ Now take a second to look at that diagram and realize what happened: it essentia
 Note that if you run git status now you’ll see in green the difference between the index and what the new HEAD is.
 
 The next thing reset will do is to update the index with the contents of whatever snapshot HEAD now points to.
+
+let's try to do a pull request!!.
